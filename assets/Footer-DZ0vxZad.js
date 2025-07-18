@@ -1,1 +1,0 @@
-import{j as e}from"./index-Biz27MLc.js";const t=()=>e.jsx("div",{className:"calltoaction",id:"contact",children:e.jsxs("div",{className:"f-text",children:[e.jsx("h3",{children:"Have questions?"}),e.jsxs("p",{children:["Reach out to the organizing committee",e.jsx("br",{})," members if you have any questions."]})]})});export{t as default};
